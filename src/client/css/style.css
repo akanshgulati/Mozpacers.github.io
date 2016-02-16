@@ -1724,7 +1724,6 @@ footer {
   padding: 20px 0;
   border-top: 5px solid #999;
   background-color: #414C59 ;
-  height:170px;
 }
 
 .footer-logo img {
@@ -1749,7 +1748,7 @@ footer .fa {
   color: #eee;
 }
 footer .fa:hover{
-  color: #0095dd;
+  color: #333;
 }
 footer a:hover,
 a:focus {
@@ -1776,7 +1775,7 @@ a:focus {
           transition: all .3s ease-in-out 0s;
   -webkit-transform: scaleX(0);
           transform: scaleX(0);
-  background-color: #337ab7;
+  background-color: #333;
 }
 
 .links a:hover:before {
